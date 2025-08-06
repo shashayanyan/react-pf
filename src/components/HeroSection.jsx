@@ -11,8 +11,11 @@ export const HeroSection = () => {
                     <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Borhani </span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    I'm a Software Engineering Student in my final year of studies at UGA, with a great interest for 
-                    climate and environmental issues.
+                    I'm a Software Engineering Student in my final year of Masters studies at UGA, with a great interest for 
+                    climate and environmental issues. I enjoy developing Interactive and complex systems and have mastered numerous 
+                    programming languages and techniques. I'm always looking for new opportunities that align with my personal values
+                    and allow me to showcase my abilities and grow. I'm a natural team player and love working on projects related to Cloud,
+                    Artificial Intelligence, Data Science and Game Dev.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
