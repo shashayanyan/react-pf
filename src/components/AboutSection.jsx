@@ -13,11 +13,13 @@ export const AboutSection = () => {
                     </h3>
 
                     <p className="text-muted-foreground ">
-                        Experience + Specialization
+                        As a Warwick and Unistra computer science graduate, I am a versatile developer who
+                        specializes in creating robust and reliable backend solutions, and responsive user interfaces. 
                     </p>
 
                     <p className="text-muted-foreground ">
-                        Interests + ambitions/motivations
+                        I'm passionate about bringing exciting ideas to life with my tech knowledge, and I'm constantly 
+                        learning new concepts and techniques to stay at the forefront of the vast field of development.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
