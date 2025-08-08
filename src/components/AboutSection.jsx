@@ -40,9 +40,10 @@ export const AboutSection = () => {
                                 <Code className="h-6 w-6 text-primary" />
                             </div>
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> Web Development </h4>
+                                <h4 className="font-semibold text-lg"> Backend Development </h4>
                                 <p className="text-muted-foreground">
-                                    Interactive and responsive web projects
+                                    Creating smart and reliable solutions to complex problems and designs, 
+                                    with innovative algorithms.
                                 </p>
 
                             </div>
@@ -55,9 +56,9 @@ export const AboutSection = () => {
                                     <User className="h-6 w-6 text-primary" />
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Cloud? </h4>
+                                    <h4 className="font-semibold text-lg"> Web Development </h4>
                                     <p className="text-muted-foreground">
-                                        Interactive and responsive web projects
+                                        Interactive and responsive web projects with seamless user experiences
                                     </p>
 
                                 </div>
@@ -71,7 +72,8 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg"> Project management </h4>
                                     <p className="text-muted-foreground">
-                                        Interactive and responsive web projects
+                                        Leading solo/team projects from conception to deployment, 
+                                        practicing agile methodologies.
                                     </p>
 
                                 </div>
