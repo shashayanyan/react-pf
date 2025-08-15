@@ -24,6 +24,9 @@ const skills = [
     {name: "JavaScript", level: 90, category: "frontend"},
     {name: "Ajax", level: 70, category: "frontend"},
     {name: "React", level: 80, category: "frontend"},
+
+    { name: "GazeboSim", level: 70, category: "tools" },
+    { name: "TurtleSim", level: 85, category: "tools" },
 ];
 
 const categories = ["all", "backend", "frontend", "tools"];
