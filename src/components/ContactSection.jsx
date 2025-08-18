@@ -32,7 +32,7 @@ export const ContactSection = () => {
                 Get In <span className="text-primary"> Touch! </span>
             </h2>
             <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                Have a project in mind or want to collaborate? Feel free to reach with just a few clicks. I'm always looking for the next
+                Have a project in mind or want to collaborate? Feel free to reach out with just a few clicks. I'm always looking for the next
                 adventure and ready for new opportunities.
             </p>
 
